@@ -11,8 +11,11 @@ Dataset
 This project uses a custom dataset containing images of tomato leaves categorized into three classes:
 
 Healthy: Healthy tomato leaves.
+
 Early Blight: Leaves affected by Early Blight disease.
+
 Late Blight: Leaves affected by Late Blight disease.
+
 You can download the dataset from the following Google Drive link:
 
 Dataset Link - Google Drive
@@ -58,14 +61,17 @@ To train the model on the dataset, run the following command:
 bash
 Copy code
 python src/train.py
+
 The script will train the model using the train/ images and save the trained model as tomato_model.h5 in the models/ directory.
 
 Predicting with the Model
+
 To make predictions with the trained model, use the predict.py script. Provide the path to a leaf image as input:
 
 
 Copy code
 python src/predict.py --image path/to/leaf_image.jpg
+
 The script will output the predicted disease (Healthy, Early Blight, or Late Blight) and the confidence level.
 
 Results
