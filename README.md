@@ -1,4 +1,5 @@
 Tomato Leaf Disease Detection
+
 Introduction
 Tomato Leaf Disease Detection is a deep learning-based project aimed at identifying diseases in tomato leaves using Convolutional Neural Networks (CNNs). The model classifies leaves into three categories: Healthy, Early Blight, and Late Blight. This tool helps farmers and agricultural professionals diagnose plant diseases early, leading to timely interventions and preventing crop loss.
 
