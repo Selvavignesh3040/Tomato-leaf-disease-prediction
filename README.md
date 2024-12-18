@@ -13,10 +13,9 @@ This project uses a custom dataset containing images of tomato leaves categorize
 Healthy: Healthy tomato leaves.
 Early Blight: Leaves affected by Early Blight disease.
 Late Blight: Leaves affected by Late Blight disease.
-You can download the dataset from the following link:
+You can download the dataset from the following Google Drive link:
 
-Dataset Link - Google Drive: https://drive.google.com/drive/folders/1M1Rtd4btIJtG24QZjSANmBAdmmnzjzz-?usp=sharing
-
+Dataset Link - Google Drive
 Dataset Structure:
 bash
 Copy code
@@ -35,7 +34,7 @@ First, clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/Selvavignesh3040/tomato-leaf-disease-detection.git
+git clone https://github.com/username/tomato-leaf-disease-detection.git
 cd tomato-leaf-disease-detection
 2. Set up a virtual environment
 Create a virtual environment to keep dependencies isolated:
@@ -82,3 +81,6 @@ Real-time disease detection using IoT-based systems for field monitoring.
 Improve model performance using advanced techniques like Transfer Learning.
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+Contributors
+Selvavignesh3040 (Project Lead)
