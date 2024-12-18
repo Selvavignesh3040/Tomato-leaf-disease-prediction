@@ -1,5 +1,4 @@
 Tomato Leaf Disease Detection
-
 Introduction
 Tomato Leaf Disease Detection is a deep learning-based project aimed at identifying diseases in tomato leaves using Convolutional Neural Networks (CNNs). The model classifies leaves into three categories: Healthy, Early Blight, and Late Blight. This tool helps farmers and agricultural professionals diagnose plant diseases early, leading to timely interventions and preventing crop loss.
 
@@ -12,14 +11,11 @@ Dataset
 This project uses a custom dataset containing images of tomato leaves categorized into three classes:
 
 Healthy: Healthy tomato leaves.
-
 Early Blight: Leaves affected by Early Blight disease.
-
 Late Blight: Leaves affected by Late Blight disease.
-
 You can download the dataset from the following Google Drive link:
-Dataset Link - Google Drive: https://drive.google.com/drive/folders/1M1Rtd4btIJtG24QZjSANmBAdmmnzjzz-?usp=sharing
 
+Dataset Link - Google Drive
 Dataset Structure:
 bash
 Copy code
@@ -32,21 +28,15 @@ dataset/
     ├── Healthy/
     ├── Early_Blight/
     └── Late_Blight/
-    
 Setup and Installation
-
 1. Clone the repository
-2. 
 First, clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/Selvavignesh3040/tomato-leaf-disease-detection.git
-
+git clone https://github.com/username/tomato-leaf-disease-detection.git
 cd tomato-leaf-disease-detection
-
 2. Set up a virtual environment
-3. 
 Create a virtual environment to keep dependencies isolated:
 
 bash
@@ -54,10 +44,7 @@ Copy code
 python -m venv env
 source env/bin/activate  # Linux/Mac
 env\Scripts\activate     # Windows
-
-
 3. Install required dependencies
-4. 
 Install all necessary Python packages listed in requirements.txt:
 
 Copy code
