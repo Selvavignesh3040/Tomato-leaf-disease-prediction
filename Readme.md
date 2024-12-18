@@ -36,6 +36,7 @@ bash
 Copy code
 git clone https://github.com/username/tomato-leaf-disease-detection.git
 cd tomato-leaf-disease-detection
+
 2. Set up a virtual environment
 Create a virtual environment to keep dependencies isolated:
 
@@ -44,6 +45,7 @@ Copy code
 python -m venv env
 source env/bin/activate  # Linux/Mac
 env\Scripts\activate     # Windows
+
 3. Install required dependencies
 Install all necessary Python packages listed in requirements.txt:
 
