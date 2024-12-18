@@ -16,7 +16,7 @@ Early Blight: Leaves affected by Early Blight disease.
 
 Late Blight: Leaves affected by Late Blight disease.
 
-You can download the dataset from the following Google Drive link:
+You can download the dataset from the following Google Drive link: https://drive.google.com/drive/folders/1M1Rtd4btIJtG24QZjSANmBAdmmnzjzz-?usp=sharing
 
 Dataset Link - Google Drive
 Dataset Structure:
