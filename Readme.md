@@ -61,7 +61,7 @@ The script will train the model using the train/ images and save the trained mod
 Predicting with the Model
 To make predictions with the trained model, use the predict.py script. Provide the path to a leaf image as input:
 
-css
+
 Copy code
 python src/predict.py --image path/to/leaf_image.jpg
 The script will output the predicted disease (Healthy, Early Blight, or Late Blight) and the confidence level.
